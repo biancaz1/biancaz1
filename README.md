@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Bianca!
 
 <!--
 **biancaz1/biancaz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📚 Computer Science @ UofT  
+
+🌱 Currently learning and experimenting with AI/ML  
+
+💌 bianca.zhao@mail.utoronto.ca | www.linkedin.com/in/bianca-zhao
