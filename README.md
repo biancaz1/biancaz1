@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 📚 Computer Science @ UofT  
 
-🌱 Currently learning and experimenting with AI/ML  
+🌱 Currently learning and experimenting with AI/ML and computer vision  
 
 💌 bianca.zhao@mail.utoronto.ca | www.linkedin.com/in/bianca-zhao
